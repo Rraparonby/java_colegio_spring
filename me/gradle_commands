@@ -1,0 +1,19 @@
+--- General ---
+gradlew tasks
+----------------------------------------------------------------
+
+--- Process ---
+gradle build
+gradle clean
+gradle bootRun
+
+--- Manual/Docker ---
+java -jar ./build/libs/project1-0.0.1-SNAPSHOT.jar
+
+----------------------------------------------------------------
+
+---Extra ---
+
+gradle bootRunMainClassName
+
+----------------------------------------------------------------
