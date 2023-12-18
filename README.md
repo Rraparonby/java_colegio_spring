@@ -1,6 +1,9 @@
 # java_colegio_spring
 Example of Code Generation in Java Spring
 
+## Youtube Video
+https://www.youtube.com/watch?v=3F20DCRHhDs
+
 ## Code Generated Paths
 
 /src/main/java/com/bydan/colegio/estructura/alumno
